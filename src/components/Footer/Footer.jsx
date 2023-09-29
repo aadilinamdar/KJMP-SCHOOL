@@ -21,7 +21,7 @@ const Footer = () => {
             Phule Highschool
           </span>
           <span className="primaryText">
-            <a href="mailto:zainkeepscode@gmail.com">demomail@gmail.com</a>
+            <a href="mailto:kjmphighschool1984@gmail.com">kjmphighschool1984@gmail.com</a>
           </span>
         </div>
 
@@ -32,7 +32,7 @@ const Footer = () => {
           </div>
           <ul className={css.menu}>
             <li>+91 &nbsp;70664  22855</li>
-            <li><a href=""> Location 📍</a></li>
+            <li><a target="_blank" href="https://www.google.com/maps/place/Krantijyoti+Mahatma+Phule+High+School+Kolhapur/@16.6780466,74.2406467,17.29z/data=!4m6!3m5!1s0x3bc101796848193d:0xfbe0e7124ca2383e!8m2!3d16.6776384!4d74.243689!16s%2Fg%2F11ss3bcrx9?entry=ttu"> Location 📍</a></li>
           </ul>
         </div>
       </motion.div>

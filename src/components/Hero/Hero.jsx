@@ -12,11 +12,16 @@ const Hero = () => {
             <br />
             Phule Highschool
           </motion.span>
+          <div className="fadeimg">
+            
+            </div>
         </div>
         <div className={css.lowerElements}>
           <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
             <div className="secondaryText">
-              <a href="">Demomail@gmail.com</a>
+              <a>"Education is our passport to the future, 
+                <br/>
+                for tomorrow belongs to the people who prepare for it today."</a>
             </div>
           </motion.div>
         </div>
