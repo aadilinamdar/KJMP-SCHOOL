@@ -22,32 +22,11 @@ const People = () => {
 
         <div className={`flexCenter ${css.heading}`}>
           <span className="primaryText">Contact us</span>
-          <p style={{ marginTop: "2rem" }}>
-          Krantijyoti Mahatma Phule Highschool
-          </p>
-          <p>Nehrunagar Vidyalay, Kolhapur, Swatantra Sainik Vasahat, 416004, Maharashtra, India</p>
         </div>
 
 
 
-        <div className={`yPaddings ${css.comments}`}>
-          {/* to use slider , we have to inlcude css in index.html head */}
-          <Slider {...sliderSettings} className={css.slider}>
-            {comments.map((comment, i) => {
-              return (
-                <div className={`flexCenter ${css.comment}`}>
-                  <img src={comment.img} alt="" />
-                  <p>{comment.comment}</p>
-                  <div className={css.line}></div>
-                  <div className={css.bio}>
-                    <span>{comment.name}</span>
-                    <span>{comment.post}</span>
-                  </div>
-                </div>
-              );
-            })}
-          </Slider>
-        </div>
+
 
 
       </motion.div>

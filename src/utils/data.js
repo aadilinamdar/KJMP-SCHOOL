@@ -19,25 +19,25 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Dmo Name ",
+    place: "Demo Name ",
     tenure: "Qualification",
     role: "Speciality",
     detail:
-      "deeails here ",
+      "details here",
   },
   {
-    place: "Dmo Name ",
+    place: "Demo Name ",
     tenure: "Qualification",
     role: "Speciality",
     detail:
-      "deeails here ",
+      "details here ",
   },
   {
-    place: "Dmo Name ",
+    place: "Demo Name ",
     tenure: "Qualification",
     role: "Speciality",
     detail:
-      "deeails here ",
+      "details here ",
   },
   
 ];

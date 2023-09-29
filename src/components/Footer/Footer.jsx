@@ -32,7 +32,7 @@ const Footer = () => {
           </div>
           <ul className={css.menu}>
             <li>+91 &nbsp;70664  22855</li>
-            <li><a href=""> Location📍</a></li>
+            <li><a href=""> Location 📍</a></li>
           </ul>
         </div>
       </motion.div>
